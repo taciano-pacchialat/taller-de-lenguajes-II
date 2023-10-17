@@ -1,5 +1,0 @@
-INDEX VERSION 1.134+/home/taci/unlp/taller-de-lenguajes-II/practica-2/.metadata/.plugins/org.eclipse.jdt.core
-3812509454.index
-1865797976.index
-2435039489.index
-1249546804.index
